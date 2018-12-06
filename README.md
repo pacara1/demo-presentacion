@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 >Haga clik [haga click](notebook.ipynb)
 You can use the [editor on GitHub](https://github.com/pacara1/ejercicio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+[clickaqui](http://nbviewer.jupyter.org/github/pacara1/ejercicio/blob/master/notebook.ipynb)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
